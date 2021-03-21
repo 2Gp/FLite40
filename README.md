@@ -1,4 +1,4 @@
-<img src=img/logo1.png><BR>
+<img src=img/logo2.png><BR>
 <BR>
 # FLite40シリーズ
 <B>FLite40</B>は<B>日本語キーボードユーザー向け</B>の<B>超コンパクトキーボード</B>シリーズです。<BR>
