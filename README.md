@@ -5,8 +5,6 @@
 <img src=img/ssk1.png><BR>
 <BR>
 <BR>
-■<B>"FLite"という名称の由来</B><BR>
-First、Flat、Fun等といった幾つかの要素を集約した"F"に"Lite"=軽い、お手軽という意味を足しました。<BR>
 <BR>
 <BR>
 <BR>
