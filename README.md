@@ -14,7 +14,7 @@ Last Update 2021/3/21<BR>
 <img src=img/test1.png><BR>
 <BR>
 ・テスター機 外観②(真上)<BR>
-<img src=img/test.png><BR>
+<img src=img/test2.png><BR>
 <BR>
 ■近日中にテスターを若干名募集予定です。<BR>
 募集の開始は<a href="https://twitter.com/r_feather1350" target="_blank">Twitter</a>の方にて行う予定なのでご興味がおありの方は是非ご確認ください。<BR>
