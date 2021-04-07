@@ -8,6 +8,7 @@ Last Update 2021/3/21<BR>
 <BR>
 現在鋭意開発中。直近においては<B>プロトタイプ</B>の制作及び<B>自作キット版</B>の開発を計画しています。 <BR>
 <BR>
+！ 2021/4/07 … テスターの募集を開始しました！<BR>
 ！ 2021/3/-- … テスター機が完成、進捗ページを分割しました。<a href="https://github.com/2Gp/FLite40/blob/main/shin-choku.md">進捗ページ</a><BR>
 <BR>
 ・テスター機 外観①<BR>
@@ -16,8 +17,8 @@ Last Update 2021/3/21<BR>
 ・テスター機 外観②(真上)<BR>
 <img src=img/test2.png><BR>
 <BR>
-■近日中にテスターを若干名募集予定です。<BR>
-募集の開始は<a href="https://twitter.com/r_feather1350" target="_blank">Twitter</a>の方にて行う予定なのでご興味がおありの方は是非ご確認ください。<BR>
+■現在、テスターを募集中です！！(4/7時点)<BR>
+試用をご希望のお方は<a href="https://twitter.com/r_feather1350" target="_blank">Twitter</a>のダイレクトメールにまずは一度ご連絡下さい。<BR>
 <BR>
 <BR>
 # テスター機 仕様
@@ -27,7 +28,7 @@ Last Update 2021/3/21<BR>
 色 白黒2色<BR>
 接続方法 有線(USB接続) ※本体側はmicroB(ケーブル付属 長さ1m)<BR>
 <BR>
-・使い方、キーマップ仕様等については後日別ページに記載予定です。<BR>
+より詳細な特徴や使用方法等については<a href="http://kkpn.extrem.ne.jp/2gp/test/readme_flt40p2.htm">こちら</a>をご覧になってください。<BR>
 <BR>
 <BR>
 <BR>
