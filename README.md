@@ -9,6 +9,7 @@ Last Update 2021/3/21<BR>
 現在鋭意開発中。直近においては<B>プロトタイプ</B>の制作及び<B>自作キット版</B>の開発を計画しています。 <BR>
 <BR>
 ！ 2021/4/07 … テスターの募集を開始しました！<BR>
+<B>※↑ありがたい事に多数の応募を頂いて一度募集締め切りとさせて頂きました</B><BR>
 ！ 2021/3/-- … テスター機が完成、進捗ページを分割しました。<a href="https://github.com/2Gp/FLite40/blob/main/shin-choku.md">進捗ページ</a><BR>
 <BR>
 ・テスター機 外観①<BR>
@@ -16,9 +17,6 @@ Last Update 2021/3/21<BR>
 <BR>
 ・テスター機 外観②(真上)<BR>
 <img src=img/test2.png><BR>
-<BR>
-■現在、テスターを募集中です！！(4/7時点)<BR>
-試用をご希望のお方は<a href="https://twitter.com/r_feather1350" target="_blank">Twitter</a>のダイレクトメールにまずは一度ご連絡下さい。<BR>
 <BR>
 <BR>
 # テスター機 仕様
