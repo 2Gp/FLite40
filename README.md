@@ -28,7 +28,8 @@ Last Update 2021/3/21<BR>
 色 白黒2色<BR>
 接続方法 有線(USB接続) ※本体側はmicroB(ケーブル付属 長さ1m)<BR>
 <BR>
-より詳細な特徴や使用方法等については<a href="http://kkpn.extrem.ne.jp/2gp/test/readme_flt40p2.htm">こちら</a>をご覧になってください。<BR>
+より詳細な特徴や使用方法等については以下のリンク先をご覧になってください。<BR>
+<a href="http://kkpn.extrem.ne.jp/2gp/test/readme_flt40p2.htm">『FLite40 P_Prototype』機能紹介</a><BR>
 <BR>
 <BR>
 <BR>
